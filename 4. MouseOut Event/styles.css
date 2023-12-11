@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin-top: 20%;
+}
+
+h1 {
+    font-size: 24px;
+    cursor: pointer;
+    color: #db4d34a9;
+}
+
+h1:hover {
+    color: rgb(18, 17, 17);
+}

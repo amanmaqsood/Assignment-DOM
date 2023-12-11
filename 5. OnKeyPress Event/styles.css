@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 20%;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #34dbc5d7;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    margin-top: 10px;
+}
